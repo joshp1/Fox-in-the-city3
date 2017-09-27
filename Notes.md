@@ -1,3 +1,0 @@
-Notes
-- [ ] Unchcked
-- [x] Chcked
