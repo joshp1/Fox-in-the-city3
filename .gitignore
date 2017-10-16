@@ -5,6 +5,8 @@ ehthumbs.db
 # Add lock file
 *.odt#
 *.doc#
+*.*#
+*.*~
 
 # Folder config file
 Desktop.ini
