@@ -1,5 +1,0 @@
-nr. 4	Scene 1
-			Kit
-		Hello Mike
-			Mike
-		

@@ -1,8 +1,0 @@
-{'datum_format': ['mm', 'dd', 'yyyy'],
- 'datum_trenner': '.',
- 'formatierung': 'Standard',
- 'tag1': 0,
- 'tag2': 0,
- 'tag3': 0,
- 'use_template': (0, ''),
- 'use_template_organon': (False, None)}
