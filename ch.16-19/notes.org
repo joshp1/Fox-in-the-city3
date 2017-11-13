@@ -1,4 +1,11 @@
-* Fox in the City 3: Chapter 16-19 notes
+* DONE Fox in the City 3: Chapter 16-19 notes
   SCHEDULED: <2017-07-23 Sun>
 
 ** I need to start a story with Beth and Vicky and try to figure out a way for Jessy to live with them again
+   :PROPERTIES:
+   :ID:       db5d9579-14a6-4254-9801-d915a41f4152
+   :END:
+** This is a note
+   :PROPERTIES:
+   :ID:       f597ed1d-8a74-43ea-a240-4e5e0b53c65f
+   :END:
